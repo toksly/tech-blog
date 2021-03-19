@@ -13,6 +13,7 @@ This application allows developers to be able to publish,articles, posts, though
 <strong>Installation</strong>
 
 This project does not need any installation,rather it is currently hosted at Heroku via this link
+https://toksly-tech-blog.herokuapp.com/
 <strong>Usage</strong>
 
 This application is easy to use. It allows first time users to be able to create an accout using a username and a password, while returning users can simply login on the homepage using username and password credentials. After logging in, a user can be able to write a post, update and delete. The user can also comment on others posts
